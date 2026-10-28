@@ -1,3 +1,4 @@
+// Question: How can a client manage a collection of bank accounts?
 package OOP.BANK;
 
 import java.util.ArrayList;
